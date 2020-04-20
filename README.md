@@ -8,7 +8,8 @@ Here I am practicing styling and implementing the basics of React.
 
 ## Preview
 
-![Component Diagram](https://imgur.com/a/z2ybyOY.png)
+<img width="538" alt="Screen Shot 2020-04-19 at 7 53 24 PM" src="https://user-images.githubusercontent.com/32975967/79710365-a3dc5100-8279-11ea-9a61-a56b0fbca2cc.png">
+
 
 **[View Live Preview](https://admiring-hodgkin-6c8b1d.netlify.com/)**
 
