@@ -1,68 +1,76 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# You-Cool
+## By: Ketuah Howard || April 19th 2020
+#### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Description 
+Here I am practicing styling and implementing the basics of React.
 
-In the project directory, you can run:
 
-### `npm start`
+## Preview
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Component Diagram](https://imgur.com/a/z2ybyOY)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+**[View Live Preview](https://admiring-hodgkin-6c8b1d.netlify.com/)**
 
-### `npm test`
+## Description
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Practice of functional programming with a plant watering application
 
-### `npm run build`
+## Project Specifications
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+|Behavior|Input|Output|
+|---|:---:|:---:|
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Setup/Installation Requirements
 
-### `npm run eject`
+_In Terminal:_
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* Navigate to where you want this application to be saved, i.e.:
+```cd desktop```
+* Clone the file from GitHub with HTTPS
+```git clone https://github.com/keturahdev/```
+* Open file in your preferred text editor
+* On Mac: ```open -a {your text editor} galactic-age-calculator```
+* On Windows: ```galactic-age-calculator```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+_Download Manually:_
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* Navigate to https://github.com/kwicz/galactic-age-calculator.
+* Click green "Clone or Download" button.
+* Click "Download ZIP".
+* Click downloaded file to unzip.
+* Open folder called "galactic-age-calculator".
+* Right click "index.html" and select your preferred browser or text editor.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Future Additions
 
-## Learn More
+* Add planet images.
+* Add planet informational details.
+* Add functionality for Saturn and Uranus.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Known Bugs
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+_No known bugs at this time._
 
-### Code Splitting
+## Support and contact details
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+_Have a bug or an issue with this application? [Open a new issue](https://github.com/kwicz/galactic-age-calculator/issues) here on GitHub._
 
-### Analyzing the Bundle Size
+## Technologies Used
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+* Node.js
+* Webpack
+* Javascript
+* jQuery
+* Jest
+* HTML & CSS
+* Bootstrap 4
+* [Bootsnipp](https://bootsnipp.com/snippets/351Vo)
+* [Start Bootstrap](https://startbootstrap.com/snippets/pricing-table/)
 
-### Making a Progressive Web App
+### License
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+[MIT](https://choosealicense.com/licenses/mit/)
 
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Copyright (c) 2020 **_Keturah Howard, Alyssa Colistro, Mariam Alaeddin, K. Wicz_**
