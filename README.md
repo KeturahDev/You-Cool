@@ -19,8 +19,15 @@ Practice of functional programming with a plant watering application
 
 ## Project Specifications
 
+### User Stories
+* As a user, I want to be able to add compliments about myself, to feel more confident and practice self love
+* As a user, I want to be able to randomly view one of the compliments I've given myself previously
+* As a user, I want to log in to view my personal compliments I've given myself
+
+<!-- ### BDD
 |Behavior|Input|Output|
 |---|:---:|:---:|
+|user can create compliments| |:---:| -->
 
 
 ## Setup/Installation Requirements
@@ -60,13 +67,18 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 
 ## Technologies Used
 
-* Node.js
-* Webpack
-* Javascript
-* jQuery
-* Jest
+* React
 * HTML & CSS
 * Bootstrap 4
+* Git
+* npm
+
+## Technologies Planned to be Used
+
+* Node.js
+* FireBase / FireStore
+* Redux
+* SCSS
 * [Bootsnipp](https://bootsnipp.com/snippets/351Vo)
 * [Start Bootstrap](https://startbootstrap.com/snippets/pricing-table/)
 
