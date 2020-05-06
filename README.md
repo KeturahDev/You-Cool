@@ -51,20 +51,6 @@ _Download Manually:_
 * Open folder called "galactic-age-calculator".
 * Right click "index.html" and select your preferred browser or text editor.
 
-## Future Additions
-
-* Add planet images.
-* Add planet informational details.
-* Add functionality for Saturn and Uranus.
-
-## Known Bugs
-
-_No known bugs at this time._
-
-## Support and contact details
-
-_Have a bug or an issue with this application? [Open a new issue](https://github.com/kwicz/galactic-age-calculator/issues) here on GitHub._
-
 ## Technologies Used
 
 * React
@@ -72,6 +58,15 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 * Bootstrap 4
 * Git
 * npm
+
+## Future Additions
+
+* Add Authorization.
+* Add Authentication.
+* Add database.
+* Add seeded compliments.
+* Add random happy images to CoolCard.
+* Integrate API somehow
 
 ## Technologies Planned to be Used
 
@@ -81,6 +76,17 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 * SCSS
 * [Bootsnipp](https://bootsnipp.com/snippets/351Vo)
 * [Start Bootstrap](https://startbootstrap.com/snippets/pricing-table/)
+
+
+
+## Known Bugs
+
+_No known bugs at this time._
+
+## Support and contact details
+
+_Have a bug or an issue with this application? [Open a new issue](https://github.com/kwicz/galactic-age-calculator/issues) here on GitHub._
+
 
 ### License
 
